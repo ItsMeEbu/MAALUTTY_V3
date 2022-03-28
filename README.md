@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
   ### Deploy server 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husni-ser/MAALU) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMeEbu/MAALU) 
 
   ### Deploy server 3
  
